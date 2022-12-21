@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p><img src="https://github-profile-trophy.vercel.app/?username=omeripek" alt="omeripek" /></p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=omeripek&label=Profile%20views&color=0e75b6&style=flat" alt="omeripek" /> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omeripek&show_icons=true&locale=en" alt="omeripek" /></p>
